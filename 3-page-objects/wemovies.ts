@@ -43,4 +43,5 @@ class WeMovies {
     }
 
 }
+
 export default new WeMovies();
