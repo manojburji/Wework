@@ -26,3 +26,4 @@ Feature: We Movies
     Given I am on the main page2
     When I click on Upcoming tab
     Then I should see landing on the upcoming tab
+
